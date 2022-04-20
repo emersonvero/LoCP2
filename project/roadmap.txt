@@ -1,0 +1,8 @@
+1) choose a PDE and generate data
+
+2) build "library", i.e. the features that supposedly build up our unknown PDE
+this includes some choice of representation
+
+3) regression magic
+
+4) compare results
