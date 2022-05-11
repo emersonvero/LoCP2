@@ -1,7 +1,0 @@
-time dependent parameter to tune the system to make it go between a lorenz and a rossler
-
-bayesian inference -> sparsity assumption has limits -> confidence levels
-
-https://pysindy.readthedocs.io/en/latest/examples/13_ensembling.html
-
-prior -> library construction and sparsity assumption
