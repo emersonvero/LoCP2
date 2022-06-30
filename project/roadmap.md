@@ -1,3 +1,24 @@
+#### PRESENTATION SCRIPT
+
+
+---> introduzione veloce a SINDY
+
+---> presentare velocemente loro algoritmo con thresholding
+
+---> sparsity supposta dal thresholding, imposta a priori
+
+---> greedy algorithm, giunge a una soluzione senza la possibilità di esplorare tutte le altre
+    il modello bayesiano produce invece una distribuzione di probabilita su tutti i parametri coinvolti
+    ipotizzando di campionarlo in modo efficace, otteniamo un paronama completo
+
+---> sparsity in bayes: assegnamo una probabilita finita al fatto che un certo coefficiente sia zero vs non zero
+
+---> introdurre modello, joint posterior probability distribution derivation
+
+
+
+
+
 #### Alessandro notes:
 
 - in sampling, we initialize z to be all ones. maybe we should do all zeros? <- doesnt matter
